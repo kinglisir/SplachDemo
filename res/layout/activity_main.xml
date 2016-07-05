@@ -1,0 +1,23 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+
+    <Button
+        android:id="@+id/bt_hadler"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="利用handler实现splash界面" />
+    
+    <Button
+        android:layout_marginTop="10dp"
+        android:id="@+id/bt_animion"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="利用动画实现splash界面" />
+    
+   
+
+</LinearLayout>
